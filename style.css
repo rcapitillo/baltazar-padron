@@ -1,0 +1,20 @@
+* {
+
+}
+.navbar {
+    overflow: hidden;
+    background-color: bisque;
+    position: sticky;
+    height: 3em;
+    width: auto;
+  }
+
+a {
+    text-decoration: none;
+    margin: 5px;
+    color: black;
+}
+
+.navbar a.right {
+    float: right;
+  }
